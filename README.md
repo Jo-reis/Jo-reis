@@ -8,6 +8,7 @@ Tenho 24 anos, moro no Rio de Janeiro. Atualmente trabalho como Técnica de Info
   <a href="https://github.com/Jo-reis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-reis&layout=compact&langs_count=7&theme=tokyonight&"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jo-reis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://user-images.githubusercontent.com/72660785/172273628-5b1d7846-a710-45e6-a109-e655a1d0d9b5.png" width="125px"/>
 </div>
 
 ##
@@ -22,15 +23,14 @@ Tenho 24 anos, moro no Rio de Janeiro. Atualmente trabalho como Técnica de Info
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </div>
+
   
 ##
   
-  
-##
- 
  📚 Tenho estudado Flutter e Python. Pretendo voltar a rever as outras tecnologias citadas anteriormente também;
   
  🎮 No meu tempo livre possivelmente estou jogando, assistindo filmes/séries ou só existindo ouvindo música 🎶;
+
   
 ##
 ### 📫 Contatos:
