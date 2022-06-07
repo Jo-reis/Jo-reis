@@ -24,6 +24,10 @@ Tenho 24 anos, moro no Rio de Janeiro. Atualmente trabalho como Técnica de Info
 </div>
   
 ##
+  
+![joe](https://user-images.githubusercontent.com/72660785/172272392-1b296c7d-65f0-46a7-a38a-45a6f18c137c.png)
+  
+##
  
  📚 Tenho estudado Flutter e Python. Pretendo voltar a rever as outras tecnologias citadas anteriormente também;
   
